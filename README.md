@@ -2,6 +2,8 @@
 
 This repository contains the Jupyter Notebook and accompanying files for the project on automating quest dialogue generation in role-playing video games (RPGs) using Generative Pre-trained Transformers (GPT-2). The project was conducted as part of the coursework for CMPT 713.
 
+<img src="imgs/poster.png" alt="Poster presented at SFU">
+
 ## Introduction
 
 The project explores the application of Large Language Models (LLMs), particularly open-source pre-trained models like GPT-2, to automate the creation of quest dialogues in RPGs. This approach aims to reduce the time and resources typically required for manual quest creation, thereby streamlining content development without compromising narrative quality.
